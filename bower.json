@@ -1,0 +1,17 @@
+{
+  "name": "nim",
+  "authors": [
+    "Stefaan Vandenborne <stefanvandenborne@gmail.com>"
+  ],
+  "description": "voor cvo avond les",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
